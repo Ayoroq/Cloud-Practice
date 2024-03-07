@@ -11,11 +11,6 @@
 # 1   script interrupted
 # 2   error description
 
-#This is still a test in my bash scrippting exercise
-#the end goal is to connect to the amazon s3 bulk and upload a given file
-
-# function to delete a file in a specified
-
 uploader() {
 
 # This function upload  the specified file to the specified bucket.
